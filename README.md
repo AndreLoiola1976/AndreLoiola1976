@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andre Loiola</h1>
 
-<h3> I'm from Brazil (🇧🇷). I've been working as Delphi Developer since 2013.</h3>
+<h3> I'm from Brazil (🇧🇷). I've been working as Delphi Developer and C# since 2013.</h3>
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
